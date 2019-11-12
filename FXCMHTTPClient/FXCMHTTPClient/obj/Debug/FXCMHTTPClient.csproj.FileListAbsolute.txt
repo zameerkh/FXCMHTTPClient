@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\obj\Debug\FXCMHTTPClient.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\FXCMHTTPClient.exe.config
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\FXCMHTTPClient.exe
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\FXCMHTTPClient.pdb
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\obj\Debug\FXCMHTTPClient.exe
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\obj\Debug\FXCMHTTPClient.pdb
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\WebSocket4Net.dll
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Owner\Documents\C# Folder\My Personal Work\API Work\PrintingToConsole(New Way)\FXCMHTTPClient\FXCMHTTPClient\obj\Debug\FXCMHTTPClient.csproj.CopyComplete
